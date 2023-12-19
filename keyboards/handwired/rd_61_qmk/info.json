@@ -1,6 +1,6 @@
 {
-    "manufacturer": "abhiakl",
-    "keyboard_name": "rd_61_qmk",
+    "manufacturer": "redstone",
+    "keyboard_name": "qmk 61",
     "maintainer": "abhijithabhiakl",
     "backlight": {
         "driver": "pwm",
@@ -13,7 +13,7 @@
     "usb": {
         "device_version": "1.0.0",
         "pid": "0x7421",
-        "vid": "0xFEED"
+        "vid": "0xCA75"
     },
     "development_board": "promicro",
     "diode_direction": "ROW2COL",
