@@ -1,6 +1,6 @@
 {
-    "manufacturer": "redstone",
-    "keyboard_name": "qmk 61",
+    "manufacturer": "0xCA75",
+    "keyboard_name": "rd61",
     "maintainer": "abhijithabhiakl",
     "backlight": {
         "driver": "pwm",
